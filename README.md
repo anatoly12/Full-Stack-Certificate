@@ -1,1 +1,3 @@
-# Full-Stack-Certificate
+# Full Stack Certificate
+
+<img src="./Anatoly Policastro.jpg" />
